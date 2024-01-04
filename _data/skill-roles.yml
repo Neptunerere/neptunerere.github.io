@@ -1,8 +1,8 @@
-- name: Digital Product Design
-- name: UX Design
-- name: Wireframing
-- name: Prototyping
-- name: Interaction Design
-- name: UI Animation
-- name: Copywriting
-- name: Visual Design
+- name: PHP
+- name: Laravel
+- name: Go
+- name: MySQL
+- name: MariaDB
+- name: Javascript
+- name: Memcached
+- name: Redis

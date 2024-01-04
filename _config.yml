@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
-baseurl:        ""
-url:            "https://www.jihyeleee.com"
+title:          Neptune
+# baseurl:        ""
+url:            "https://neptunerere.github.io/"
 
 # Assets
 sass:
@@ -16,13 +16,12 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          https://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      hitchhikerj
+  name:         Neptune
+  url:          https://neptunerere.github.io
+  email:        neomunjeong@gmail.com
+  github:       Neptunerere
 
 # Custom vars
-version:        3.4.1
+version:        0.0.1
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo:         https://github.com/Neptunerere/neptunerere.github.io
