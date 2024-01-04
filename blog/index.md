@@ -3,7 +3,7 @@ layout: default
 title: "Blog"
 post-header: true
 header-img: img/aris-attack.jpg
-header-class: space-background
+header-class: aris-attack
 ---
 
 <ul class="catalogue">

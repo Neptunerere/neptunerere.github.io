@@ -1,0 +1,4 @@
+first-data:
+  - name: php-nexon-open-api
+    role: PHP library for seamless Nexon Open API integration.
+    url: https://github.com/Neptunerere/php-nexon-open-api

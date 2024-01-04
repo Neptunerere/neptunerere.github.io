@@ -1,0 +1,17 @@
+<li class="workplace transition">
+    {% for first in site.data.open-source-list.first-data %}
+    <p class="workplace-name">
+        {{ first.name }}
+    </p>
+    <div class="work-info">
+        <p>
+            {{ first.role }}
+        </p>
+        <a href="{{ first.url }}" class="work-sub-info">
+            <div class="view-detail-projects transition">
+                {{ first.url }}
+            </div>
+        </a>
+    </div>
+    {% endfor %}
+</li>

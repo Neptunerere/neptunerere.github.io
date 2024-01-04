@@ -80,6 +80,14 @@ div.resume-info {
                 margin-left: 6px;
             }
         }
+        .view-detail-projects {
+            display: inline-block;
+            color: $default-tint;
+            font-size: 18px;
+            font-family: $source;
+            font-weight: 600;
+            margin: 0 20px 20px 0;
+        }
     }
     a:hover {
         opacity: .6;
