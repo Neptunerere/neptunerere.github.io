@@ -4,6 +4,8 @@ p, h2 {
     margin: 0;
 }
 
+@import url('https://webfontworld.github.io/gyeonggi/GyeonggiTitle.css');
+
 // color 정의
 $default-shade: #10171f;
 $default-tint: #8898aa;
@@ -22,14 +24,19 @@ $shadow-color: rgba(0, 0, 0, .2);
 $ridi-blue: #1f8ce6;
 $ridi-skyblue: #66baff;
 $purple: #8565fc;
+$sky-blue: #1288F8;
+$aris: #444D60;
 $light-purple: #997EFA;
+
+// font 사이즈 정의
+$font-size-17: 17px;
 
 // media
 $break-medium: 900px;
 $break-small: 670px;
 
 // font-family 정의
-$san-serif: "Source Sans Pro", "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;
+$san-serif: "GyeonggiTitle", "Source Sans Pro", "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;
 $serif: "Nanum Myeongjo",sans-serif;
 $source: 'Source Sans Pro', sans-serif;
 
