@@ -137,13 +137,14 @@ section.skill {
 
 /* blob */
 .blob{
-    background-image: url("/assets/avatar.jpg");
+    background-image: url("/assets/avatar3.png");
+    background-repeat: no-repeat;
     width: 170px;
     height: 170px;
     overflow: hidden;
     margin-left: 4rem;
     background-size: cover;
-    background-position: center center;
+    background-position: center top;
     box-shadow: 0 5px 5px 5px rgba(13, 110, 253, 0.2);
     animation: animate 5s ease-in-out infinite;
     transition: all 1s ease-in-out;
