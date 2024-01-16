@@ -11,7 +11,7 @@ blog: true
 text: true
 author: "Neptune"
 post-header: true
-header-img: "img/php-version-8-0-and-1.png"
+header-img: ""
 order: 1
 tags: ['php']
 comments: true
@@ -22,7 +22,7 @@ comments: true
 ```php
 {
 	"title": "1111111111",
-    "content": "222222222222222222222"
+        "content": "222222222222222222222"
 }
 ```
 
@@ -100,7 +100,7 @@ $connect->setAttribute(PDO::ATTR_STRINGIFY_FETCHES, false);
 ```php
 {
 	"title": "1111111111",
-    "content": "222222222222222222222"
+        "content": "222222222222222222222"
 }
 ```
 
