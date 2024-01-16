@@ -17,7 +17,7 @@ tags: ['php']
 comments: true
 ---
 
-실무에서 많이 사용하는 위주로 콕 집어서 정리해보았다.git 
+실무에서 많이 사용하는 위주로 콕 집어서 정리해보았다
 
 # 어트리뷰트 (Attribute)
 
@@ -141,3 +141,6 @@ $fooBar = new Foo('foobar');
 var_dump($fooBar->bar); // string(6) "foobar"
 ```
 
+그 외에도 변경된 부분은 무수히 많다.
+
+현재는 PHP 8.3까지 출시가 되어서 앞으로 확인해야할게 무궁무진하다.
